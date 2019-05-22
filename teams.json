@@ -1,10 +1,10 @@
 {
-  "teams": [
+  "teams": {
     "auto-one": {
       "members": []
     },
     "auto-two": {
       "members": []
     },
-  ]
+  }
 }
