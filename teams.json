@@ -1,9 +1,10 @@
 {
   "teams": [
-    "auto-one",
-    "four",
-    "kind-of-magic",
-    "third",
-    "five"
+    "auto-one": {
+      "members": []
+    },
+    "auto-two": {
+      "members": []
+    },
   ]
 }
