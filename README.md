@@ -1,6 +1,11 @@
 # CTC16
 The homepage for CTC16 - Air Quality 2 event 8/9 June 2019 at the University of Aberdeen
 
+## Prerequisites
+
+* If you don't have a GitHub account, create a free account before you begin.
+You can [join GitHub](http://github.com/join) to get started.
+
 ## Teams
 We'll add teams during the event. Follow these steps to help us add you.
 1. Create a GitHub account if you don't have one.
