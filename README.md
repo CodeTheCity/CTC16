@@ -17,3 +17,4 @@ We'll add teams during the event. Follow these steps to help us add you.
 This process relies on several online services running. Here is the checklist of their status pages just to double check:
 
 * [Glitch](https://status.glitch.com)
+* [GitHub](https://www.githubstatus.com)
