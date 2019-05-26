@@ -12,3 +12,8 @@ We'll add teams during the event. Follow these steps to help us add you.
 2. Clone this repo and edit this page by adding your name and team name to the file, and then commiting it locally.
 3. Submit a pull request on the repo. Now we have your Github details and know which team you belong to.
 4. We'll then create the team repos for you to use.
+
+## Having problems?
+This process relies on several online services running. Here is the checklist of their status pages just to double check:
+
+* [Glitch](https://status.glitch.com)
