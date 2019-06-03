@@ -1,13 +1,7 @@
 {
   "teams": {
-    "auto-one": {
-      "members": []
-    },
-    "auto-two": {
-      "members": []
-    },
-    "auto-three": {
-      "members": []
+    "my-team": {
+      "members": [andrewsage]
     }
   }
 }
