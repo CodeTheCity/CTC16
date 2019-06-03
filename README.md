@@ -14,6 +14,9 @@ We'll add teams during the event. Follow these steps to help us add you.
 ![Image showing how to start fork process](images/1-fork.png)
 3. It will take a few seconds for the fork process to complete.
 4. Once complete you will now be at **your own** copy of this repository, which is a duplicate of the original. Any changes you make here will not affect the original.
+5. View the **teams.json** file.
+![Image showing how to view the teams.json file](images/1-view-teams.png)
+
 3. Edit this page by adding your name and team name to the file
 4. Commit the changes as a new branch
 - [ ] Add screen shot here to show the process
