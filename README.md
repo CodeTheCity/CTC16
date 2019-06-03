@@ -8,7 +8,8 @@ You can [join GitHub](http://github.com/join) to get started.
 
 ## Teams
 We'll add teams during the event. Follow these steps to help us add you.
-1. Create a GitHub account if you don't have one.
+1. If you haven't already, sign in to GitHub
+![Image showing how to sign in to GitHub](images/1-signin.png)
 2. Fork this repo
 - [ ] Add screen shot here to show the process
 3. Edit this page by adding your name and team name to the file
