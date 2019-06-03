@@ -1,7 +1,7 @@
 {
   "teams": {
-    "my-team": {
-      "members": [andrewsage]
+    "your-team-name": {
+      "members": [your-git-hub-name]
     }
   }
 }
