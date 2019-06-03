@@ -23,15 +23,8 @@ We'll add teams during the event. Follow these steps to help us add you.
 9. Commit the changes by creating a **new branch** with the name **team-setup** and clicking on **Propose file change**.
 ![Image showing commit changes](images/1-commit-teams.png)
 10. Open a pull request by clicking on **Create pull request**. You do not need to change any of the fields. This will put forward a request to allow your changes to be accepted
-![Image showing open pull request](images/1-open-pull-request)
-
-3. Edit this page by adding your name and team name to the file
-
-4. Commit the changes as a new branch
-- [ ] Add screen shot here to show the process
-5. Submit a pull request on the repo. Now we have your Github details and know which team you belong to.
-- [ ] Add screen shot here to show the process
-6. We'll then create the team repos for you to use.
+![Image showing open pull request](images/1-open-pull-request.png)
+11. We will be notified of the request and will then create the team repos for you to use.
 
 ## Having problems?
 This process relies on several online services running. Here is the checklist of their status pages just to double check:
