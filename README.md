@@ -25,7 +25,9 @@ We'll add teams during the event. Follow these steps to help us add you.
 ![Image showing how to view the teams.json file](images/1-view-teams.png)
 6. Open the file for editing by clicking on the pencil icon.
 ![Image showing how to open teams.json for editing](images/1-edit-teams.png)
-7. Change **your-team-name** to the name of your team. **Ensure - are used for spaces**
+7. Change **your-team-name** to the name of your team, **ensuring the following**:
+    * instead of spaces you use - 
+    * you use the same team name as the rest of your team
 8. Change **your-git-hub-name** to the name of your GitHub account.
 9. Commit the changes by creating a **new branch** with the name **team-setup** and clicking on **Propose file change**.
 ![Image showing commit changes](images/1-commit-teams.png)
