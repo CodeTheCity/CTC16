@@ -11,7 +11,7 @@ Through this setup process you can learn the following GitHub skills:
 * Forking a GitHub repository
 * Editing a repository using the web browser
 * Creating a Pull Request
-* Participating in a project
+* Contributing to a project
 
 ## Teams
 We'll add teams during the event. Follow these steps to help us add you.
