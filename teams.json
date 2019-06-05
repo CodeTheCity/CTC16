@@ -2,6 +2,9 @@
   "teams": {
     "your-team-name": {
       "members": ["your-git-hub-name"]
+    },
+    "automation": {
+      "members": ["andrewsage","scharlau"]
     }
   }
 }
