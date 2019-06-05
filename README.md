@@ -14,7 +14,7 @@ Through this setup process you can learn the following GitHub skills:
 * Contributing to a project
 
 ## Teams
-We'll add teams during the event. Follow these steps to help us add you.
+We'll add teams, and create a GitHub repository for each team, during the event. Follow these steps to help us add you.
 1. If you haven't already, sign in to GitHub
 
 ![Image showing how to sign in to GitHub](images/1-signin.png)
