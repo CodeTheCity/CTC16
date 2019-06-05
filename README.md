@@ -39,7 +39,7 @@ We'll add teams during the event. Follow these steps to help us add you.
     * instead of spaces you use - 
     * you use the same team name as the rest of your team
 
-8. Change **your-git-hub-name** to the name of your GitHub account.
+8. Change **your-git-hub-name** to the name of your GitHub account, **ensuring that the name is enclosed with "** e.g. "avon"
 
 9. Commit the changes by creating a **new branch** with the name **team-setup** and clicking on **Propose file change**.
 
