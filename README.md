@@ -53,6 +53,8 @@ We'll add teams, and create a GitHub repository for each team, during the event.
 
 11. We will be notified of the request and will then create the team repos for you to use.
 
+12. Once we have set up your team repo you will receive an invite to access it from GitHub. From then on this repo will no longer required and just exist as a happy reminder about possibly your first project contribution.
+
 ## Having problems?
 This process relies on several online services running. Here is the checklist of their status pages just to double check:
 
