@@ -14,7 +14,8 @@ Exploring API development to pull sensor data for specified dates.
 ### [Air-Champs](https://github.com/CodeTheCity/CTC16-Air-Champs)
 Visualising the data with dashboards to make it easier to see the air that matters to you
 
-### Implquable
+### Implaqable
+Team exploring how to persuade people to 'do the right' thing to help improve air quality
 
 ### Mike-And-Robb
 
