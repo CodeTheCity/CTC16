@@ -1,5 +1,5 @@
 # CTC16
-The homepage for [CTC16 - Air Quality 2 event](https://codethecity.org/hack-weekends/code-the-city-16-air-quality-2/) 8th/9th June 2019 at the University of Aberdeen.
+The homepage for [CTC16 - Air Quality 2 event](https://codethecity.org/hack-weekends/code-the-city-16-air-quality-2/) 8th/9th June 2019 at the University of Aberdeen. This event built upon the work done at [CTC15 Air Quality Hack](https://github.com/CodeTheCity/CTC15).
 
 ### Sponsors made it happen
 We had a number of sponsors for the event.
