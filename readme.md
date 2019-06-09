@@ -3,6 +3,7 @@ The homepage for [CTC16 - Air Quality 2 event](https://codethecity.org/hack-week
 
 ### Data Layers
 A key part of the weekend was unpacking the different ways that the teams approached the various parts of the layers shown in the diagram below. We worked on various parts in order to eventually be able to move fully up and down the layers using appropriate interfaces to connect the layers together.
+
 ![data layers](images/AQA-data-layers.png)
 
 ### Sponsors made it happen
