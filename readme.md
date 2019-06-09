@@ -1,6 +1,10 @@
 # CTC16
 The homepage for [CTC16 - Air Quality 2 event](https://codethecity.org/hack-weekends/code-the-city-16-air-quality-2/) 8th/9th June 2019 at the University of Aberdeen.
 
+### Data Layers
+A key part of the weekend was unpacking the different ways that the teams approached the various parts of the layers shown in the diagram below. We worked on various parts in order to eventually be able to move fully up and down the layers using appropriate interfaces to connect the layers together.
+![data layers](images/AQA-data-layers.png)
+
 ### Sponsors made it happen
 We had a number of sponsors for the event.
 [FortyTwo Studio](https://www.fortytwo.studio) covered food for our 28 (Saturday) and 24 (Sunday) hungry participants.
