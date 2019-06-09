@@ -3,7 +3,7 @@ The homepage for [CTC16 - Air Quality 2 event](https://codethecity.org/hack-week
 
 ### Sponsors made it happen
 We had a number of sponsors for the event.
-[FortyTwo Studio](https://www.fortytwo.studio) covered food for our 28 hungry participants.
+[FortyTwo Studio](https://www.fortytwo.studio) covered food for our 28 (Saturday) and 24 (Sunday) hungry participants.
 [Converged Communication Solutions](https://www.converged.co.uk) and [Codify](https://www.codify.ltd.uk) each paid for 10 air quality sensors for us to build and deploy in the city.
 
 Please also take a look at some of the ideas suggested so far on our [Ideas platform](http://ideas.codethecity.co.uk/codethecity/ctc16-air-quality-2)
