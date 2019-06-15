@@ -11,6 +11,7 @@ We gained coverage by the BBC and Evening Express during the event, while the [P
 
 You can view the BBC new clip, broadcast Tuesday 11th June, [here](https://twitter.com/BBCScotNine/status/1138557894293516288).
 
+### Ideas generated
 Please also look at some of the ideas that were suggested on our [Ideas platform](http://ideas.codethecity.co.uk/codethecity/ctc16-air-quality-2)
 
 ## TEAMS
