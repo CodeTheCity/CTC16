@@ -6,7 +6,10 @@ We had a number of sponsors for the event.
 [FortyTwo Studio](https://www.fortytwo.studio) covered food for our 28 (Saturday) and 24 (Sunday) hungry participants.
 [Converged Communication Solutions](https://www.converged.co.uk) and [Codify](https://www.codify.ltd.uk) each paid for 10 air quality sensors for us to build and deploy in the city.
 
+### Coverage in the press
 We gained coverage by the BBC and Evening Express during the event, while the [P&J highlighted the event](https://www.pressandjournal.co.uk/fp/news/aberdeen/1755274/plans-for-five-times-as-many-independent-air-quality-sensors-in-aberdeen-by-end-of-the-year/) earlier.
+
+You can view the BBC new clip, broadcast Tuesday 11th June, [here](https://twitter.com/BBCScotNine/status/1138557894293516288).
 
 Please also look at some of the ideas that were suggested on our [Ideas platform](http://ideas.codethecity.co.uk/codethecity/ctc16-air-quality-2)
 
